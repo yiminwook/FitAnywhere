@@ -1,2 +1,7 @@
-# FitAnywhere
-make google fit web application 
+> Env
+
+```
+GOOGLE_API_KEY=
+GOOGLE_SECRET_KEY=
+GOOGLE_CLIENT_ID=
+```
